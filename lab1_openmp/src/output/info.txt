@@ -1,0 +1,7 @@
+=== Matrix Multiplication Info ===
+Matrix A size: 2500x2500
+Matrix B size: 2500x2500
+Matrix C size: 2500x2500
+Threads: 20
+Execution time: 1.47512 sec
+Task volume: 12500000 elements
