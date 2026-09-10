@@ -1,6 +1,0 @@
-=== Matrix Multiplication Info ===
-Matrix A size: 2x2
-Matrix B size: 2x2
-Matrix C size: 2x2
-Execution time: 5e-07 sec
-Task volume: 8 elements
