@@ -1,0 +1,3 @@
+Matrix size: 2048x2048
+CUDA Kernel Time: 39.1617 ms
+Tile Size: 32x32
